@@ -1,0 +1,15 @@
+{
+    "key": "sample-dataset-01",
+    "name": "Sample Dataset 1",
+    "description": "Sample Dataset 1",
+    "provider": "",
+    "url": "",
+    "parameters": [
+        {
+            "name": "",
+            "description": "",
+            "type": ""
+        }
+    ],
+    "maps": []
+}

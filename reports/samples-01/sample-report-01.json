@@ -1,0 +1,16 @@
+{
+    "name": "Sample Report 1",
+    "description": "Sample Report 1 using Sample Dataset 1",
+    "datasets": {
+        "default": "sample-dataset-01"
+    },
+    "parameters": [
+        {
+            "name": "",
+            "description": "",
+            "type": ""
+        }
+    ],
+    "supports": [ "excel", "pdf", "html"],
+    "maps": []
+}
